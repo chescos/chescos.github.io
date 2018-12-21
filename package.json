@@ -1,0 +1,14 @@
+{
+  "name": "chescos",
+  "version": "1.0.0",
+  "description": "Hurray!",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "chescos",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
