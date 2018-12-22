@@ -5,4 +5,4 @@
 
 # Open Source
 
-* [Steam Mobile Authcode Generator](https://chescos.me/js-steam-authcode-generator/) - Generate Steam mobile auth codes in your web browser.
+* [Steam Mobile Authcode Generator](https://www.chescos.me/js-steam-authcode-generator/) - Generate Steam mobile auth codes in your web browser.
