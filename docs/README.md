@@ -11,6 +11,7 @@ These are some commercial projects I've worked on:
 * [KeyJoker](https://www.keyjoker.com) - Game giveaways in exchange for social media interactions
 * [SwagSpec](https://www.swagspec.com/) - A social media network focused on sharing images
 * [Skinport](https://skinport.com/) - A marketplace for in-game items
+* [CSGOSKINS.GG](https://csgoskins.gg/) - An indexer for CS:GO skins
 
 ## Open Source Projects
 
